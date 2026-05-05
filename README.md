@@ -25,5 +25,7 @@ Python 3.x
 TensorFlow / Keras
 NumPy / Pandas
 Matplotlib / Seaborn
+
+
  **Conclusiones y Trabajo Futuro**
 Se identificó que el modelo MLP encuentra un límite natural cerca del 90% de precisión, especialmente con la categoría 'Camisa' (Shirt). Como siguiente paso, se recomienda la implementación de Redes Neuronales Convolucionales (CNN) para extraer características espaciales y superar este plateau de rendimiento.
